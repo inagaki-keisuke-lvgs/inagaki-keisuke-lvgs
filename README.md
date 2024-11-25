@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=aws,fastapi,py,react,ts,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,fastapi,py,react,ts,vite,next)](https://skillicons.dev)
 
 <!--
 **inagaki-keisuke-lvgs/inagaki-keisuke-lvgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
